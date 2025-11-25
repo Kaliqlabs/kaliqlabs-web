@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" fill="transparent"/>
+<path d="M12 10V54H20L40 32V54H48V10H40L20 32V10H12Z" fill="url(#kaliqlabsGradient)"/>
+<defs>
+<linearGradient id="kaliqlabsGradient" x1="12" y1="32" x2="48" y2="32" gradientUnits="userSpaceOnUse">
+<stop stop-color="#22D3EE"/>
+<stop offset="1" stop-color="#8B5CF6"/>
+</linearGradient>
+</defs>
+</svg>
