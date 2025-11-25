@@ -1,16 +1,25 @@
-# React + Vite
+# Kaliqlabs Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo contains the code for the **Kaliqlabs** corporate site. It’s a clean, fast, modern front-end that represents our global team and the kind of systems we build: scalable, high-performance, and practical.
 
-Currently, two official plugins are available:
+## Vision
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The site is built to feel modern from the first scroll: dark theme, neon gradients, subtle motion, and a straightforward layout. Everything is modular React for easy updates, and the entire UI is fully responsive across devices.
 
-## React Compiler
+## Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+We use tools that prioritize speed and a smooth developer experience.
 
-## Expanding the ESLint configuration
+- **React** for a modular, maintainable UI  
+- **Vite** for fast builds and instant dev feedback  
+- **Tailwind CSS v4** for quick, consistent styling  
+- **Lucide React** for clean, modern icons  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+You only need **Node.js (v18+)** installed.
+
+```bash
+git clone https://github.com/Kaliqlabs/kaliqlabs-web.git
+cd kaliqlabs-web
+npm install
