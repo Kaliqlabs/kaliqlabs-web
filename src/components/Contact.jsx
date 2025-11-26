@@ -26,7 +26,7 @@ const Contact = () => {
               </li>
               <li className="flex items-center gap-4 text-slate-300">
                 <Phone size={20} className="text-cyan-400" />
-                <span>+i-will-call-you!</span>
+                <span>+000-000-000-000</span>
               </li>
               <li className="flex items-center gap-4 text-slate-300">
                 <MapPin size={20} className="text-cyan-400" />
